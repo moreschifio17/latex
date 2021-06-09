@@ -1,2 +1,2 @@
 # latex
-Ejemplo de algebra de preposiciones
+Ejemplo de algebra de proposiciones
